@@ -27,7 +27,7 @@ fn main() {
         println!("3. valid path to not existing file   (will be created and encoded into)");
         println!("if \"decode\":");
         println!("2. valid path to a valid, existing, encoded file   (will be read from, but not altered)");
-        println!("3. valid path to a not existing directory   (will be created and encoded into)");
+        println!("3. valid path to a not existing directory   (will be created and decoded into)");
 
         println!("\nPlease ENTER:::   1. \"encode\" or \"decode\":");
         let mut s=String::new();
