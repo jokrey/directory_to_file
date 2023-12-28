@@ -1,6 +1,6 @@
 [package]
-name = "directory_encoder"
-version = "0.1.0"
+name = "directory_to_file"
+version = "0.1.1"
 authors = ["jokrey"]
 
 [dependencies]
